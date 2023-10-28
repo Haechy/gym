@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #000000;
+}
+
+.image{
+    margin-left: -23px;
+    width: 5%;
+    /* padding-bottom: 70px; */
+}
+
+
+.list1  {
+    margin-left: 12rem;
+    margin-top: -10rem;
+    display: flex;
+    justify-content: space-between;
+    vertical-align: top; 
+}
+
+.list1 ul{
+    list-style: none;
+    padding: 0;
+}
+
+.list1 li{
+    font-size: 20px;
+    color: white;
+    display: inline;
+    margin-right: 30px;
+     
+}
+.list1{
+    list-style: none;
+}
+.list1 a{
+    color: white;
+    text-decoration: none;
+}
+.list1 a:hover{
+    color: blue;
+}
+
+.list2 ul{
+ position: relative;
+    list-style: none;
+    margin-top: 180px;
+    margin-left: 10px;
+
+    
+}
+
+.list2 li{
+    padding: 10px;
+}
+
+
+
+.list2 a{
+    color: white;
+    text-decoration: none;
+    
+    gap: 50px;
+}
+.list2 a:hover{
+    color: blue;
+}
+
+.sec1{
+    margin-top: -16rem;
+}
+.input{
+    background-color: white;
+    padding: 20px;
+    width: 70.9%;
+    margin-top: 3rem;
+    margin-left:10rem;
+}
+.sec1 img{
+     margin-left: 10rem; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    
+    margin-top: 5rem;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+section h1{
+    color: white;
+}
+
+.sec3 img{
+     margin-left: 90px;
+     margin-bottom: 20px;
+}
+.sec3 p{
+    margin-left: 20px;
+    color: white;
+}
+
+footer{
+    
+    margin-top: 60px;
+}
+.whole{
+    margin-left: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+}
+
+.flex{
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 70px;
+}
+
+.flex ul{
+    list-style-type: none;
+    padding: 10px;
+    
+}
+.flex li{
+    padding: 15px;
+}
+
+footer ul li{
+    color: white;
+}
+.c, .p, .r{
+    font-weight: bold;
+}
+
+.fa-instagram{
+    color: white;
+    background-color: red;
+    font-size: 30px;
+}
